@@ -1,3 +1,5 @@
+[На главную страницу](https://thesaurus-dostoevsky.github.io/)
+
 ### Графы
 
 * [Статичные](https://thesaurus-dostoevsky.github.io/static-graphs). Удобно вставить в статью.
