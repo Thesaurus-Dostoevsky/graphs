@@ -1,20 +1,9 @@
-# Графы-визуализации словника Достоевского по корпусу статей журнала «Проблемы исторической поэтики»
+[На главную страницу](https://thesaurus-dostoevsky.github.io/)
 
-Скачать статические графы: [jpg](https://drive.google.com/drive/folders/1m_edGHGcKmboWm86YsS5TjN496dY4Gkt?usp=sharing), [svg](https://drive.google.com/drive/folders/1PgV4izfCYBBcxuS3m13gTAh8ZZ_7UbYm?usp=sharing)
-## Окно 3
-[окно 3, количество 50](https://thesaurus-dostoevsky.github.io/graphs/3-50)
+### Графы
 
-[окно 3, количество 40](https://thesaurus-dostoevsky.github.io/graphs/3-40)
+* [Статичные](https://thesaurus-dostoevsky.github.io/static-graphs). Удобно вставить в статью.
+<img title="" alt="Граф с окном 3, не меньше 50 связей между терминами" src="https://raw.githubusercontent.com/thesaurus-dostoevsky/static-graphs/main/3-50.svg">
 
-[окно 3, количество 30](https://thesaurus-dostoevsky.github.io/graphs/3-30)
-
-[окно 3, количество 25](https://thesaurus-dostoevsky.github.io/graphs/3-25)
-
-## Окно 5
-[окно 5, количество 50](https://thesaurus-dostoevsky.github.io/graphs/5-50)
-
-[окно 5, количество 40](https://thesaurus-dostoevsky.github.io/graphs/5-40)
-
-[окно 5, количество 30](https://thesaurus-dostoevsky.github.io/graphs/5-30)
-
-[окно 5, количество 25](https://thesaurus-dostoevsky.github.io/graphs/5-25)
+* [Динамические](https://thesaurus-dostoevsky.github.io/graphs/graph). Удобно приближать, рассматривать, разделять на сегменты.
+<iframe src="https://thesaurus-dostoevsky.github.io/graphs/3-50/" style="border:0px;width:100%;height:800px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true">
